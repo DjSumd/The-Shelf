@@ -1,7 +1,7 @@
 // Shelf: offline support.
 // The app files are cached on first visit, so it opens instantly and works without reception.
 // When online, each launch quietly checks for a newer version, which is used the next time it opens.
-const VERSION = "shelf-v1";
+const VERSION = "shelf-v2";
 const APP = ["./index.html", "./stories-0.js", "./stories-1.js", "./stories-2.js", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
