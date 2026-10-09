@@ -2,7 +2,7 @@
 
 Shelf is a small reading app that retells the key ideas of well-known books as short, stand-alone stories. Each story takes a few minutes to read and ends with an everyday example and a one-line takeaway.
 
-- 763 books, 10,649 stories
+- 804 books, 11,143 stories
 - Six families of shelves: Mind, Heart, Spirit, Craft, World and Music
 - Save stories or whole books, write private reflections, and review saved stories later
 - Light and dark themes, read-aloud, export and restore
