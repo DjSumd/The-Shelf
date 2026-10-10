@@ -1,11 +1,11 @@
 // Shelf service worker. Change VERSION whenever any file changes so phones pick up the update.
-const VERSION = "2026-10-09a";
+const VERSION = "2026-10-10a";
 const CACHE = "shelf-" + VERSION;
 const CORE = [
   "./", "index.html", "manifest.webmanifest",
   "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png",
   "icons/apple-touch-icon.png", "icons/favicon-64.png",
-  "stories-0.js", "stories-1.js", "stories-2.js"
+  "stories-0.js", "stories-1.js", "stories-2.js", "stories-3.js"
 ];
 
 self.addEventListener("install", e => {
