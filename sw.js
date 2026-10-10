@@ -1,5 +1,5 @@
 // Shelf service worker. Change VERSION whenever any file changes so phones pick up the update.
-const VERSION = "2026-10-10b";
+const VERSION = "2026-10-11a";
 const CACHE = "shelf-" + VERSION;
 const CORE = [
   "./", "index.html", "manifest.webmanifest",
